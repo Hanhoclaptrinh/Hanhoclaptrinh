@@ -1,7 +1,7 @@
 # 💫About Me :
 ------------------------------你好------------------------------<br/>
 🤴 Le Vinh Han - Vietnam<br/>
-🐧He/Him - 他<br/>
+🐧 He/Him - 他<br/>
 👨‍💻 A Vietnamese student majoring in Information Technology - 一名主修信息技术的越南籍学生<br/>
 🫀 A Little Heart with Extraordinary Dreams - 一颗怀揣非凡梦想的小心<br/><br/>
 
