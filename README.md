@@ -95,26 +95,6 @@ const pitou = {
 
 ---
 
-<!-- Trophies -->
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="28" /> GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Hanhoclaptrinh&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=15" alt="GitHub Trophies"/>
-</div>
-
----
-
-<!-- Snake Animation -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hanhoclaptrinh/Hanhoclaptrinh/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hanhoclaptrinh/Hanhoclaptrinh/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Hanhoclaptrinh/Hanhoclaptrinh/output/github-snake.svg" />
-  </picture>
-</div>
-
----
-
 <!-- Connect With Me -->
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="28" /> Connect With Me
 
